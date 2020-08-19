@@ -1,4 +1,6 @@
 #!/bin/bash
+#Vou ter muito sucesso na programaçao!
+
 echo "Meu primeiro script em Shell Script!"
 #Aqui vai um comentário
 #echo "Hack the Planet"
