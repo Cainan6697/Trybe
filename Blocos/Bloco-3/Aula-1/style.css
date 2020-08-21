@@ -1,0 +1,23 @@
+html,
+body {
+    height: 90vh;
+}
+
+body {
+    background-color: rgb(24, 151, 79);
+}
+
+h1 {
+    color: rgb(134, 57, 57);
+}
+
+h2,
+h3 {
+    color: rgb(123, 35, 126);
+}
+
+p,
+ul,
+ol {
+    color: white;
+}
