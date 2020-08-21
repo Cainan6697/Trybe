@@ -14,10 +14,23 @@ h1 {
 h2,
 h3 {
     color: rgb(123, 35, 126);
+    background-color: white;
 }
 
 p,
 ul,
 ol {
     color: white;
+}
+
+.song-lyrics {
+    background-color: rgb(8, 73, 36);
+}
+
+#rabbits-info-heading {
+    background-color: white;
+}
+
+#imgcoelho {
+    border-radius: 40%;
 }
