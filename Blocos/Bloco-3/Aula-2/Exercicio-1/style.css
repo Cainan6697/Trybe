@@ -1,21 +1,18 @@
 html,
 body {
-    height: 90vh;
+    height: 80vh;
 }
 
 body {
     background-color: rgb(24, 151, 79);
+    font-size: 14px;
 }
 
-h1 {
-    color: rgb(82, 32, 71);
-    margin-left: 90px;
-}
-
+h1,
 h2,
 h3 {
     color: rgb(123, 35, 126);
-    background-color: white;
+    background-color: rgb(20, 230, 111);
 }
 
 p {
@@ -28,16 +25,21 @@ ol {
     color: white;
 }
 
+.rabbits-info-heading {
+    background-color: rgb(20, 230, 111);
+}
+
+.rabbits-info {
+    font-weight: 600;
+}
+
 .song-lyrics {
-    background-color: rgb(8, 73, 36);
-    font-family: monospace;
+    background-color: rgb(2, 136, 60);
+    font: italic 14px fantasy;
 }
 
-#rabbits-info-heading {
-    background-color: white;
-}
 
-#imgcoelho {
+.imgcoelho {
     margin-left: 10px;
     border-radius: 40%;
     width: 400px;
