@@ -8,7 +8,8 @@ body {
 }
 
 h1 {
-    color: rgb(134, 57, 57);
+    color: rgb(82, 32, 71);
+    margin-left: 90px;
 }
 
 h2,
@@ -32,5 +33,7 @@ ol {
 }
 
 #imgcoelho {
+    margin-left: 10px;
     border-radius: 40%;
+    width: 400px;
 }
