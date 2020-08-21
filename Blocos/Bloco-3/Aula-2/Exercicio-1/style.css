@@ -18,6 +18,10 @@ h3 {
     background-color: white;
 }
 
+p {
+    font-family: "Helvetica", sans-serif;
+}
+
 p,
 ul,
 ol {
@@ -26,6 +30,7 @@ ol {
 
 .song-lyrics {
     background-color: rgb(8, 73, 36);
+    font-family: monospace;
 }
 
 #rabbits-info-heading {
