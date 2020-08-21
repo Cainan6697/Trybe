@@ -1,0 +1,39 @@
+html,
+body {
+    height: 90vh;
+}
+
+body {
+    background-color: rgb(24, 151, 79);
+}
+
+h1 {
+    color: rgb(82, 32, 71);
+    margin-left: 90px;
+}
+
+h2,
+h3 {
+    color: rgb(123, 35, 126);
+    background-color: white;
+}
+
+p,
+ul,
+ol {
+    color: white;
+}
+
+.song-lyrics {
+    background-color: rgb(8, 73, 36);
+}
+
+#rabbits-info-heading {
+    background-color: white;
+}
+
+#imgcoelho {
+    margin-left: 10px;
+    border-radius: 40%;
+    width: 400px;
+}
