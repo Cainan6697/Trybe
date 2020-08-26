@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+    padding: 35px;
+}
+
+header {
+    /* background-color: rgb(20, 6, 19); */
+    padding: 10px;
+}
+
+nav {
+    background-color: rgb(6, 6, 6);
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+}
+
+article {
+    /* background-color: rgb(161, 124, 161); */
+    padding: 25px;
+    text-align: justify;
+}
+
+table {
+    display: table;
+    width: auto;
+    border: 3px solid gray;
+}
+
