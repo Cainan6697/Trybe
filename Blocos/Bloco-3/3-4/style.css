@@ -1,9 +1,8 @@
 body {
     background-color: black;
-    color: white;
-    /* padding: 35px; */
+    color: rgb(197, 197, 197);
     margin: auto;
-    font-size: 20px;
+    font:  700 1.2rem Archivo;
 }
 
 .header {
@@ -15,14 +14,14 @@ body {
 }
 
 .nav {
-    background-color: rgb(15, 15, 15);
+    background-color: rgb(37, 37, 37);
     margin: auto;
     max-width: 1200px;
     border-radius: 10px;
 }
 
 .nav ul li {
-    color: white;
+    color: rgb(197, 197, 197);
     display: inline-block;
     text-decoration: none;
     padding: 10px;
@@ -31,16 +30,17 @@ body {
 }
 
 .nav ul li:hover {
-    background-color: grey;
+    background-color: rgb(85, 85, 85);
 }
 
 .nav a {
+    color: rgb(197, 197, 197);
     text-decoration: none;   
 }
 
 .article {
-    background-color: rgb(15, 15, 15);
-    padding: 25px;
+    background-color: rgb(37, 37, 37);
+    padding: 40px;
     margin: auto;
     max-width: 1100px;
     text-align: justify;
@@ -58,7 +58,14 @@ body {
 .table {
     display: table;
     width: auto;
-    border: 3px solid gray;
     margin: auto;
+    overflow: auto;
+}
+
+.table th,
+.table td {
+    border: 2px solid gray;
+    text-align: center;
+    padding: 10px;
 }
 
