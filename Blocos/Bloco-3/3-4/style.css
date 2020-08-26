@@ -2,31 +2,63 @@ body {
     background-color: black;
     color: white;
     padding: 35px;
+    margin: auto;
+    font-size: 20px;
 }
 
-header {
+.header {
     /* background-color: rgb(20, 6, 19); */
     padding: 10px;
+    margin: auto;
+    max-width: 1200px;
+    text-align: center;
 }
 
-nav {
+.nav {
     background-color: rgb(6, 6, 6);
-    padding: 10px;
+    margin: auto;
+    max-width: 1200px;
+    border-radius: 10px;
 }
 
-nav a {
+.nav ul li {
     color: white;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
 }
 
-article {
-    /* background-color: rgb(161, 124, 161); */
+.nav ul li:hover {
+    background-color: grey;
+}
+
+.nav a {
+    text-decoration: none;   
+}
+
+.article {
+    background-color: rgb(6, 6, 6);
     padding: 25px;
+    margin: auto;
+    max-width: 1100px;
     text-align: justify;
+    border-radius: 10px;
 }
 
-table {
+.article h2 {
+    text-align: center;
+}
+
+.article p {
+    text-indent: 60px;
+}
+
+.table {
     display: table;
     width: auto;
     border: 3px solid gray;
+    margin: auto;
 }
 
