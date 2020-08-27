@@ -1,71 +1,95 @@
 body {
-    background-color: black;
-    color: rgb(197, 197, 197);
-    margin: auto;
-    font:  700 1.2rem Archivo;
+  background-color: rgb(68, 68, 68);
+  color: rgb(197, 197, 197);
+  margin: auto;
+  font: 700 1.2rem Archivo;
+}
+
+.container {
+  background-color: rgb(37, 37, 37);
+  padding: 40px;
+  margin: auto;
+  max-width: 1100px;
+  text-align: justify;
+  border-radius: 10px;
 }
 
 .header {
-    /* background-color: rgb(20, 6, 19); */
-    padding: 10px;
-    margin: auto;
-    max-width: 1200px;
-    text-align: center;
+  background-color: rgb(68, 68, 68);
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  max-width: 1100px;
+  text-align: center;
 }
 
 .nav {
-    background-color: rgb(37, 37, 37);
-    margin: auto;
-    max-width: 1200px;
-    border-radius: 10px;
+  /* background-color: rgb(90, 70, 80); */
+  margin: auto;
+  max-width: 1200px;
+  border-radius: 10px;
 }
 
 .nav ul li {
-    color: rgb(197, 197, 197);
-    display: inline-block;
-    text-decoration: none;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 10px;
+  color: rgb(197, 197, 197);
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
 }
 
 .nav ul li:hover {
-    background-color: rgb(85, 85, 85);
+  background-color: rgb(37, 37, 37);
 }
 
 .nav a {
-    color: rgb(197, 197, 197);
-    text-decoration: none;   
+  color: rgb(197, 197, 197);
+  text-decoration: none;
 }
 
-.article {
-    background-color: rgb(37, 37, 37);
-    padding: 40px;
-    margin: auto;
-    max-width: 1100px;
-    text-align: justify;
-    border-radius: 10px;
-}
+/* .article {
+  background-color: rgb(37, 37, 37);
+  padding: 40px;
+  margin: auto;
+  max-width: 1100px;
+  text-align: justify;
+  border-radius: 10px;
+} */
 
 .article h2 {
-    text-align: center;
+  text-align: center;
 }
 
 .article p {
-    text-indent: 60px;
+  text-indent: 60px;
 }
 
 .table {
-    display: table;
-    width: auto;
-    margin: auto;
-    overflow: auto;
+  display: table;
+  width: auto;
+  margin: auto;
+  overflow: auto;
 }
 
 .table th,
 .table td {
-    border: 2px solid gray;
-    text-align: center;
-    padding: 10px;
+  border: 2px solid gray;
+  text-align: center;
+  padding: 10px;
 }
 
+aside {
+  display: inline-block;
+  color: rgb(120, 120, 120);
+}
+
+.video {
+  border: 3px solid rgb(197, 197, 197);
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.section-2 {
+  text-align: justify;
+}
