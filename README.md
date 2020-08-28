@@ -24,7 +24,7 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 3-2: *HTML & CSS - Getting Started with CSS*
 - [x] 3-3: *HTML & CSS - Selectors and positioning*
 - [x] 3-4: *Semantic HTML*
-- [x] 3-5: *[Project - HTML & CSS]()*
+- [x] 3-5: *[Project - HTML & CSS](https://github.com/tryber/sd-07-project-lessons-learned/pull/23)*
 
 ##### Block 4: Introduction - JavaScript
 - [] 4-1: *JavaScript - Getting Started*
