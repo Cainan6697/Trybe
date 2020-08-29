@@ -7,4 +7,4 @@ for(let n = 0; n < numbers.length; n += 1) {
   if(maior < numbers[n]) {
     maior = numbers[n]
   }
-} console.log(maior)
+} console.log(`O maior numero do array é: ${maior}`)
