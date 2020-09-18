@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(200, 200, 200);
+}
+
+.container {
+  background-color: rgb(230, 230, 230);
+  border: solid 1px black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+}
+
+header {
+  background-color: rgb(240, 240, 240);
+  border: solid 1px black;
+  border-radius: 10px;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 80%;
+}
+
+div {
+  padding: 10px;
+}
+
+fieldset {
+  background-color: rgb(240, 240, 240);
+  border: solid 1px black;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+  width: 80%;
+}
+
+input {
+  background-color: rgb(240, 240, 240);
+  border: solid 1px black;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+select {
+  background-color: rgb(240, 240, 240);
+  border: solid 1px black;
+  border-radius: 5px;
+  padding: 5px;
+}

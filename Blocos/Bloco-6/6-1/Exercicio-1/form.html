@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário Currículo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    
+    <header>
+
+      <h1>Formulário para Curriculum Vitae</h1>
+
+    </header>
+
+    <form action="">
+
+      <fieldset>
+
+        <legend>Dados Pessoais</legend>
+
+        <div>
+          <label for="">Nome:</label><br>
+          <input type="text" maxlength="40" required="required" placeholder="Digite seu nome">
+        </div>
+
+        <div>
+          <label for="">E-mail:</label><br>
+          <input type="text" maxlength="50" required="required" placeholder="Digite seu e-mail">
+        </div>
+
+        <div>
+          <label for="">CPF:</label><br>
+          <input type="text" maxlength="11" required="required" placeholder="Digite seu CPF">
+        </div>
+
+        <div>
+          <label for="">Endereço:</label><br>
+          <input type="text" maxlength="200" required="required" placeholder="Digite seu endereço">
+        </div>
+
+        <div>
+          <label for="">Cidade:</label><br>
+          <input type="text" maxlength="28" required="required" placeholder="Digite o nome de sua cidade">
+        </div>
+
+        <div>
+          <label for="">Estado:</label><br>
+          <select name="estado" id="comboEstados" required="required">
+            <option selected value="select">Selecione seu estado</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="">Tipo de residência:</label><br>
+          <label for="cs"><input type="radio" name="residencia" id="cs" value="cs" required="required">Casa</label>
+          <label for="ap"><input type="radio" name="residencia" id="ap" value="ap" required="required">Apartamento</label>
+        </div>
+
+      </fieldset>
+
+    </form>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
