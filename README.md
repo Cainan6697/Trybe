@@ -35,45 +35,45 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 
 ##### Block 5: Introduction - JavaScript - HTML
 - [x] 5-1: *JavaScript - DOM and selectors*
-- [] 5-2: *JavaScript - Working with elements*
-- [] 5-3: *JavaScript - Events*
-- [] 5-4: *JavaScript - Web Storage*
-- [] 5-5: *[Project - Meme Generator]()*
-- [] 5-6: *[Project - Art with Pixels]()*
-- [] 5-7: *[Project - To Do List]()*
+- [x] 5-2: *JavaScript - Working with elements*
+- [x] 5-3: *JavaScript - Events*
+- [x] 5-4: *JavaScript - Web Storage*
+- [x] 5-5: *[Project - Meme Generator]()*
+- [x] 5-6: *[Project - Art with Pixels]()*
+- [x] 5-7: *[Project - To Do List]()*
 - [] 5-8: *[Bonus Project - Color Guess]()*
 - [] 5-9: *[Bonus Project - Mistery Letter]()*
 
-<!-- ## Front-end development :hourglass_flowing_sand:
+## Front-end development :hourglass_flowing_sand:
 ##### Block 6: Introduction - Front-end
-- [] 6-1: *HTML & CSS - Forms*
-- [] 6-2: *JavaScript libraries and CSS frameworks*
-- [] 6-3: *CSS Flexbox - Part 1*
-- [] 6-4: *CSS Flexbox - Part 2*
-- [] 6-5: *CSS Responsivo - Mobile first*
-- [] 6-6: *[Project - Facebook signup page]()* -->
+- [x] 6-1: *HTML & CSS - Forms*
+- [x] 6-2: *JavaScript libraries and CSS frameworks*
+- [x] 6-3: *CSS Flexbox - Part 1*
+- [x] 6-4: *CSS Flexbox - Part 2*
+- [x] 6-5: *CSS Responsivo - Mobile first*
+- [x] 6-6: *[Project - Facebook signup page]()*
 
-<!-- ##### Block 7: Javascript ES6
-- [] 7-1: *Let, const, arrow functions & template literals*
-- [] 7-2: *Objects*
-- [] 7-3: *Unit tests*
-- [] 7-4: *Testing baby steps (TDD)*
-- [] 7-5: *Project - Unit tests practice with npm* -->
+##### Block 7: Javascript ES6
+- [x] 7-1: *Let, const, arrow functions & template literals*
+- [x] 7-2: *Objects*
+- [x] 7-3: *Unit tests*
+- [x] 7-4: *Testing baby steps (TDD)*
+- [x] 7-5: *Project - Unit tests practice with npm*
 
-<!-- ##### Block 8: Javascript Higher Order Functions (HOFs)
-- [] 8-1: *forEach, find, some, every, sort*
-- [] 8-2: *map e filter*
-- [] 8-3: *reduce*
-- [] 8-4: *spread operator, rest, destructuring, abbreviation object literal and default parameters*
-- [] 8-5: *Project - Zoo Functions* -->
+##### Block 8: Javascript Higher Order Functions (HOFs)
+- [x] 8-1: *forEach, find, some, every, sort*
+- [x] 8-2: *map e filter*
+- [x] 8-3: *reduce*
+- [x] 8-4: *spread operator, rest, destructuring, abbreviation object literal and default parameters*
+- [x] 8-5: *Project - Zoo Functions* -->
 
-<!-- ##### Block 9: Jest, Javascript asynchronous, callbacks and promises
-- [] 9-1: *First steps using Jest*
-- [] 9-2: *Javascript asynchronous and callbacks*
-- [] 9-3: *Javascript Promises*
-- [] 9-4: *Project - Shopping Cart* -->
+##### Block 9: Jest, Javascript asynchronous, callbacks and promises
+- [x] 9-1: *First steps using Jest*
+- [x] 9-2: *Javascript asynchronous and callbacks*
+- [x] 9-3: *Javascript Promises*
+- [x] 9-4: *Project - Shopping Cart*
 
-<!-- ##### Block 10: Testing asynchronous code with Jest
-- [] 10-1: *Testing asynchronous code*
-- [] 10-1: *Simulating behaviours* -->
+##### Block 10: Testing asynchronous code with Jest
+- [x] 10-1: *Testing asynchronous code*
+- [x] 10-1: *Simulating behaviours*
 
